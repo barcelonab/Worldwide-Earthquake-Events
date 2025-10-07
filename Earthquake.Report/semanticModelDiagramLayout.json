@@ -1,0 +1,61 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 1
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "earthquake_events_gold",
+          "nodeLineageTag": "8e839955-91dc-46be-b53d-4026cda14271",
+          "size": {
+            "height": 427,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 973,
+            "y": 425
+          },
+          "nodeIndex": "_measures",
+          "nodeLineageTag": "ac9bfe7d-a0a2-41b9-bde2-08761ae95210",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 355,
+            "y": 15
+          },
+          "nodeIndex": "date",
+          "nodeLineageTag": "f5e5c009-84e4-4ead-8ff6-e0d24d535c04",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
